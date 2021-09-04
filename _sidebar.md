@@ -1,9 +1,11 @@
 * 关于我们
-  * [团队介绍](aboutus/team.md)
-  * [项目：RoboMaster人工智能挑战赛](aboutus/RMUA.md)
-  * [项目：无人机](aboutus/UAV.md)
-  * [项目：仿真足球](aboutus/simuro.md)
-  * [项目：仿真避障](aboutus/sim_obstacle_avoidance.md)
+  * [基地组别介绍](aboutus/group.md)
+  * [基地历史](aboutus/history.md)
+  * [基地现状、荣誉、影响力等](aboutus/now.md)
+  * [基地未来规划](aboutus/plan.md)
+  * [基地大佬一览](aboutus/stars.md)
+  * [基地队服展示](aboutus/uniform.md)
+  * [基地参赛情况介绍](aboutus/competition.md)
 * 问题答疑
   * [2021秋季招新问题答疑](questions/2021-09.md)
 * 参考资料
@@ -19,15 +21,3 @@
   * [强化学习](reference/reinforcement-learning.md)
   * [机器学习](reference/machine-learning.md)
   * [控制](reference/control.md)
-* 控制
-  * [控制系统概述](control/overview.md)
-  * [经典时域控制](control/time-domain-control.md)
-  * [经典频域控制](control/frequency-domain-control.md)
-  * [PID校正](control/pid-correction.md)
-* 机器人学
-  * [tf](robotics/tf.md)
-  * [机械臂](robotics/robotic_arm.md)
-* 环境配置
-  * [CubeMX+simulink](environment-configure/CubeMX+simulink.md)
-  * [Visual Studio 2019 中 OpenCV 配置教程](environment-configure/Windows-OpenCV-Environment.md)
-

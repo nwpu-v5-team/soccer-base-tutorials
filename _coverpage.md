@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](resource/logo/V5++-logo-alpha.png)
+![logo](resource/logo/base-logo-176.png)
 
-# V5++
+# 足球机器人基地
 
-> NWPU V5++ Tutorials
+> 入门教程
 
 - 团队介绍
 - 参考资料

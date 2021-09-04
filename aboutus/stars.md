@@ -1,6 +1,6 @@
 # 基地大佬一览
 
-![group-starts](/home/zs/Documents/soccer-base-tutorials/resource/questions/summary/group-stars.jpg)
+![group-starts](../resource/aboutus/group-stars.png)
 
 ## 1.2015 级 V5++ 仿真组学长 沈哲伦
 

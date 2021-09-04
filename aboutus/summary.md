@@ -105,27 +105,27 @@
 
 #### 四旋翼无人开发平台
 
-![四旋翼](../resource/questions/summary/air.jpg)
+![四旋翼](../resource/aboutus/air.jpg)
 
 #### Vwbot轮式小车二次开发平台
 
 + 第一代轮式小车二次开发平台
 
-![vwbot-1](../resource/questions/summary/vwbot-1.png)
+![vwbot-1](../resource/aboutus/vwbot-1.png)
 
 + 第二代轮式小车二次开发平台
 
-![vwbot-2](../resource/questions/summary/vwbot-2.png)
+![vwbot-2](../resource/aboutus/vwbot-2.png)
 
 #### 中型轮式车开发平台
 
 Hawking轮式足球机器人自2016年诞生至今，经过了许多代的技术更新，技术处于国内领先水平。在2020年受到了工信部部长肖亚庆同志和西工大校长汪劲松同志的调研和考察。包揽2020年全国机器人锦标赛轮式大类7项冠军
 
-![hawking](../resource/questions/summary/hawking.jpg)
+![hawking](../resource/aboutus/hawking.jpg)
 
 ## 四、基地的各组大佬介绍
 
-![group-starts](../resource/questions/summary/group-stars.jpg)
+![group-starts](../resource/aboutus/group-stars.png)
 
 ### 1.2015 级 V5++ 仿真组学长 沈哲伦
 

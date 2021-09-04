@@ -1,12 +1,12 @@
-# V5++ Tutorials
+# 足球机器人基地入门教程
 
 ## 概述
 
-西北工业大学足球机器人基地 V5++ 组技术入门教程，旨在便于新人了解入门基地基础技术。
+西北工业大学足球机器人基地技术入门教程，旨在便于新人了解入门基地基础技术。
 
 文档链接： https://tutorials.npu5v5.cn
 
-目前待补充更多内容。
+目前待补充更多内容，其中部分内容未在页面展出。
 
 ## 文件结构
 
@@ -22,6 +22,7 @@ V5Tutorial
 ├── robotics				  # 机器人学
 ├── vision                    # 计算机视觉相关内容
 ├── resource				  # 文章中使用的图片素材
+├── questions                 # 招新常见问题答疑
 │   ├── aboutus
 │   ├── control
 │   ├── logo
@@ -35,7 +36,7 @@ V5Tutorial
 
 `reference`文件夹提供了一些外部引用资料，大文件以链接形式给出
 
-`aboutus` 文件夹包含了一些包括我们组的介绍与项目说明
+`aboutus` 文件夹包含了一些包括基地的介绍与项目说明
 
 `resource`文件夹包含一些图片素材，在文章中引用
 
@@ -55,4 +56,5 @@ V5Tutorial
 
 ## 贡献
 
-由基地成员维护，欢迎提出 [Issue](https://github.com/npuv5pp/V5Tutorial/issues) 或 [Pull Request](https://github.com/npuv5pp/V5Tutorial/pulls)！
+由基地成员维护，欢迎提出 [Issue](https://github.com/zzsqwq/soccer-base-tutorials/issues) 或 [Pull Request](https://github.com/zzsqwq/soccer-base-tutorials/pulls)！
+
