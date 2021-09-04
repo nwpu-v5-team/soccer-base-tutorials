@@ -1,8 +1,9 @@
 * 关于我们
   * [基地组别介绍](aboutus/group.md)
   * [基地历史](aboutus/history.md)
-  * [基地现状、荣誉、影响力等](aboutus/now.md)
-  * [基地未来规划](aboutus/plan.md)
+  * [基地现状及荣誉](aboutus/now.md)
+  * [基地相关规定](aboutus/regulation.md)
+  * [基地目前成果](aboutus/achievement.md)
   * [基地大佬一览](aboutus/stars.md)
   * [基地队服展示](aboutus/uniform.md)
   * [基地参赛情况介绍](aboutus/competition.md)
