@@ -6,7 +6,6 @@
     * [水鱼](aboutus/groups/fish.md)
     * [人型](aboutus/groups/rx.md)
     * [文职](aboutus/groups/wz.md)
-    * [各组关系](aboutus/groups/relationship.md)
   * [基地历史](aboutus/history.md)
   * [基地现状及荣誉](aboutus/now.md)
   * [基地相关规定](aboutus/regulation.md)
