@@ -52,7 +52,7 @@ V5Tutorial
 
 + 参考资料下载站：[足球机器人基地参考资料下载站 (npu5v5.cn)](https://files.npu5v5.cn/)
 + V5++ Github 团队主页：[NWPU V5++ Robotics Team (github.com)](https://github.com/nwpu-v5-team)
-+ 此文档仓库：[npuv5pp/V5Tutorial](https://github.com/npuv5pp/V5Tutorial)
++ 此文档仓库：[zzsqwq/soccer-base-tutorials(github.com)](https://github.com/zzsqwq/soccer-base-tutorials)
 
 ## 贡献
 
